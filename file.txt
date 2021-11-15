@@ -1,0 +1,20 @@
+package file;
+import java.io.File;
+/*
+"world 'cats' at the comment"
+ */
+@Inherited
+public class Main{
+    public static void main(String[] args){
+        int fav_number += 2;
+        double $a = 10e10;
+        break;
+        //comment
+        char a = '\n';
+        String world = "something";
+        char b = 'cat';
+        i*= 5;
+        String apple = "apple";
+        System.out.println("pine!");
+    }
+}
